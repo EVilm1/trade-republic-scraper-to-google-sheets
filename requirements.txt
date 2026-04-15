@@ -1,0 +1,6 @@
+gspread>=6.0.0
+google-auth>=2.0.0
+pandas>=2.0.0
+requests>=2.30.0
+websockets>=11.0
+selenium>=4.0.0

@@ -10,7 +10,7 @@
     This project allows you to export all your Trade Republic transactions to Google Sheets with automatic formatting. Transactions are organized into three separate sheets: payments, PEA, and CTO. The script runs locally and only stores your phone number. Your PIN is never saved, and you will be prompted to enter both your PIN and 2FA code each time the script runs.
   </h4>
   <span align="center">
-    Here is an example of the result in Sheets (in french for other languages see <a href="https://github.com/EVilm1/trade-republic-scraper-to-google-sheets/edit/main/README.md#filter-transactions-paymentspeacto-by-languages-other-than-french">here</a>) :
+    Here is an example of the result in Sheets (in french for other languages see <a href="#filter-transactions-paymentspeacto-by-languages-other-than-french">here</a>) :
   </span>
   <br /><br />
   <img src="https://github.com/user-attachments/assets/07aed0de-c056-44b3-b594-d7e39068b0ac" alt="example" width="680">

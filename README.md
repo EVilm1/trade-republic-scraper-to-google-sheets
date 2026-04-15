@@ -254,6 +254,6 @@ Would you like to sort data in another sheet, such as crypto transactions, for e
 ## 7) Security Notes
 
 - Your PIN is never stored.
-- The login process always asks for your 2FA code, just like when you log in online
-- Phone number is saved locally in `config.ini`
-- Authentication uses Trade Republic official web endpoints
+- The login process always asks for your 2FA code, just like when you log in online.
+- Phone number is saved locally in `config.ini`.
+- Authentication uses Trade Republic official web endpoints.

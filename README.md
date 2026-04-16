@@ -13,7 +13,7 @@
     Here is an example of the result in Sheets (in french for other languages see <a href="#filter-transactions-paymentspeacto-by-languages-other-than-french">here</a>) :
   </span>
   <br /><br />
-  <img src="https://github.com/user-attachments/assets/07aed0de-c056-44b3-b594-d7e39068b0ac" alt="example" width="680">
+  <img src="https://github.com/user-attachments/assets/95d00cab-1075-439b-99f9-0a30bf4feebc" alt="example" width="680">
   <br />
   <br />
   <span>

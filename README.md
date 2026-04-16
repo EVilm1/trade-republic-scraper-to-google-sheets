@@ -1,7 +1,7 @@
 <!-- PROJECT HEADER -->
 <br />
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/229873ba-aa17-47dc-a5b5-2c572f195da9" alt="Logo TradeRepublic to Google Sheets" width="400">
+  <img src="https://github.com/user-attachments/assets/b3d7f307-47a2-4063-90bc-d6a4b5ca6a58" width="500">
   <h1 align="center">
     Export Trade Republic transactions to Google Sheets !
     
